@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Basit 👋 
 
-<!--
-**devbasitkhan/devbasitkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Flutter & Android | AWS Cloud Essentials
 
-Here are some ideas to get you started:
+I am a results-driven **Software Engineer** specializing in building high-performance mobile applications and scalable cloud infrastructure. Currently, I'm deep-diving into **advanced Flutter architecture** and **Android system optimization**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack
+
+- **Mobile:** Flutter, Dart, Android SDK
+- **Cloud & DevOps:** AWS (EC2, S3, RDS), Terraform, CI/CD, Linux (Bash)
+- **Performance:** System Undervolting, Thermal Management, Windows LTSC Optimization
+- **Tools:** Git, Cursor, Android Studio, VS Code
+
+---
+
+### 🚀 What I'm working on
+- 📱 **Mobile Engineering:** Building robust, local-first Android applications.
+- ☁️ **Cloud Infrastructure:** Automating AWS deployments with Terraform.
+- ⚡ **Performance Optimization:** Tweaking system-level configs for maximum efficiency.
+
+---
+
+### 📊 My Stats
+![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbasitkhan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbasitkhan&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect
+- 💼 [LinkedIn](https://linkedin.com/in/abdul-basit-khan-dotdev)
+- 📧 [Email](mailto:abdulbasitkhan.devops@gmail.com)
