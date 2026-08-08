@@ -17,7 +17,7 @@ CSS, and JavaScript — with a focus on delivering real, working solutions for c
 - Currently: BS Software Engineering (Virtual University)
 
 ## 📫 Let's connect
-LinkedIn: [your link]
+LinkedIn: linkedin.com/in/abdul-basit-khan-dotdev
 Email: abdulbasitkhan.devops@gmail.com
 
 *This profile reflects my active learning journey — projects below are updated as I build them.*
