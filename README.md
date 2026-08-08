@@ -1,33 +1,23 @@
-# Hi, I'm Basit 👋 
+# Hi, I'm Basit 👋
+Operations & IT Specialist | Google IT Certified | Building Full-Stack Development Skills
 
-### Software Engineer | Flutter & Android | AWS Cloud Essentials
+I'm an IT and operations professional with 6+ years of real-world experience in
+technical support, troubleshooting, and business operations. I'm currently pursuing
+a BS in Software Engineering and building practical web development skills — HTML,
+CSS, and JavaScript — with a focus on delivering real, working solutions for clients.
 
-I am a results-driven **Software Engineer** specializing in building high-performance mobile applications and scalable cloud infrastructure. Currently, I'm deep-diving into **advanced Flutter architecture** and **Android system optimization**.
+## 🛠 Currently learning
+- HTML/CSS, JavaScript fundamentals
+- WordPress development and troubleshooting
+- Using AI-assisted development tools (GitHub Copilot, Claude) as part of my workflow
 
----
+## 💼 Background
+- Google IT Support Professional Certificate
+- 6+ years in operations, technical support, and customer-facing roles
+- Currently: BS Software Engineering (Virtual University)
 
-### 🛠 My Tech Stack
+## 📫 Let's connect
+LinkedIn: [your link]
+Email: abdulbasitkhan.devops@gmail.com
 
-- **Mobile:** Flutter, Dart, Android SDK
-- **Cloud & DevOps:** AWS (EC2, S3, RDS), Terraform, CI/CD, Linux (Bash)
-- **Performance:** System Undervolting, Thermal Management, Windows LTSC Optimization
-- **Tools:** Git, Cursor, Android Studio, VS Code
-
----
-
-### 🚀 What I'm working on
-- 📱 **Mobile Engineering:** Building robust, local-first Android applications.
-- ☁️ **Cloud Infrastructure:** Automating AWS deployments with Terraform.
-- ⚡ **Performance Optimization:** Tweaking system-level configs for maximum efficiency.
-
----
-
-### 📊 My Stats
-![Basit's GitHub stats](https://github-readme-stats.vercel.app/api?username=devbasitkhan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devbasitkhan&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/abdul-basit-khan-dotdev)
-- 📧 [Email](mailto:abdulbasitkhan.devops@gmail.com)
+*This profile reflects my active learning journey — projects below are updated as I build them.*
