@@ -20,7 +20,7 @@ CSS, and JavaScript — with a focus on delivering real, working solutions for c
 ## 📫 Let's connect
 - **LinkedIn:** [://linkedin.com](https://://linkedin.com)
 - **Email:** [abdulbasitkhan.devops@gmail.com](mailto:abdulbasitkhan.devops@gmail.com)
-- **WhatsApp:** [Chat Direct (+92 317 7779454)](https://wa.me)
+- **WhatsApp:**  wa.me/+923177779454
 
 ---
 *This profile reflects my active learning journey — projects below are updated as I build them.*
