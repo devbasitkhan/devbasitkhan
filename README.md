@@ -19,5 +19,10 @@ CSS, and JavaScript — with a focus on delivering real, working solutions for c
 ## 📫 Let's connect
 LinkedIn: linkedin.com/in/abdul-basit-khan-dotdev
 Email: abdulbasitkhan.devops@gmail.com
-[![WhatsApp](https://shields.io)](https://wa.me)
+<p align="center">
+  <a href="https://wa.me" target="_blank">
+    <img src="https://shields.io" alt="WhatsApp">
+  </a>
+</p>
+
 *This profile reflects my active learning journey — projects below are updated as I build them.*
