@@ -22,11 +22,5 @@ CSS, and JavaScript — with a focus on delivering real, working solutions for c
 - **Email:** [abdulbasitkhan.devops@gmail.com](mailto:abdulbasitkhan.devops@gmail.com)
 - **WhatsApp:** [Chat Direct (+92 317 7779454)](https://wa.me)
 
-<p align="left">
-  <a href="https://wa.me" target="_blank">
-    <img src="https://shields.io" alt="WhatsApp">
-  </a>
-</p>
-
 ---
 *This profile reflects my active learning journey — projects below are updated as I build them.*
