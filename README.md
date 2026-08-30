@@ -2,8 +2,7 @@
 Software Engineer & IT Specialist | Google IT Certified | Building Full-Stack Development Projects
 
 Software Engineer professional with 6+ years of real-world experience in
-technical support, troubleshooting, and business operations. I'm currently pursuing
-a BS in Software Engineering and building practical web development skills — HTML,
+technical support, troubleshooting, and business operations. Degree in Software Engineering and building practical web development skills — HTML,
 CSS, and JavaScript — with a focus on delivering real, working solutions for clients.
 
 ## 🛠 Currently learning
