@@ -15,7 +15,7 @@ CSS, and JavaScript — with a focus on delivering real, working solutions for c
 - 6+ years in operations, technical support, and customer-facing roles
 
 ## 📫 Let's connect
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- **LinkedIn:** [://linkedin.com]((https://www.linkedin.com/in/abdul-basit-khan-dotdev))
 - **Email:** [abdulbasitkhan.devops@gmail.com](mailto:abdulbasitkhan.devops@gmail.com)
 - **WhatsApp:**  wa.me/+923177779454
 
