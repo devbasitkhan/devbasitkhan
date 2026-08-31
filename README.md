@@ -1,7 +1,6 @@
-# Hi, I'm Basit 👋
-Software Engineer & IT Specialist | Google IT Certified | Building Full-Stack Development Projects
+# Hi, I'm Basit and I'm the founder at Dare Octive Studios
 
-Software Engineer professional with 6+ years of real-world experience in
+## I'm a Software Engineer professional with 6+ years of real-world experience in
 technical support, troubleshooting, and business operations. Degree in Software Engineering and building practical web development skills — HTML,
 CSS, and JavaScript — with a focus on delivering real, working solutions for clients.
 
